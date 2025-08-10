@@ -176,7 +176,6 @@ curl -X POST "http://localhost:5000/hackrx/run" \
 
 5. **Set up API keys** (edit `main.py`):
    ```python
-   NVIDIA_API_KEY = "your-nvidia-api-key"
    GROQ_API_KEY = "your-groq-api-key"
    ```
 

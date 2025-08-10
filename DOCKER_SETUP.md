@@ -50,7 +50,7 @@ curl -X POST http://localhost:5000/hackrx/run \
 - **Features**:
   - Document processing pipeline
   - Redis caching integration
-  - LLM integrations (NVIDIA, Groq)
+  - LLM integrations (Groq)
   - Vector search with FAISS
   - Session management
 
@@ -64,7 +64,6 @@ curl -X POST http://localhost:5000/hackrx/run \
 
 ### Required API Keys
 ```bash
-NVIDIA_API_KEY=your_nvidia_api_key
 GROQ_API_KEY=your_groq_api_key
 API_BEARER_TOKEN=your_bearer_token
 ```

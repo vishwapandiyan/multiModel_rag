@@ -52,7 +52,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Constants
-DEFAULT_MODEL = "llama3-8b-8192"
+DEFAULT_MODEL = "openai/gpt-oss-20b"  # Groq model
 GROQ_API_KEY = "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"
 EMBEDDING_MODEL = "intfloat/e5-base-v2"
 

@@ -526,9 +526,9 @@ def process_document_with_pipeline(url: str, questions: List[str]) -> Dict[str, 
                             'index': idx
                         })
                 
-                # Generate answer using NVIDIA LLM with caching
-                nvidia_llm = get_nvidia_llm()
-                if nvidia_llm and relevant_chunks:
+                # Generate answer using Groq LLM with caching
+                groq_llm = get_groq_llm()
+                if groq_llm and relevant_chunks:
                     context = "\n\n".join([chunk['content'] for chunk in relevant_chunks])
                     
                     prompt = get_prompt('enhanced_answer', question=question, context=context)
@@ -539,11 +539,11 @@ def process_document_with_pipeline(url: str, questions: List[str]) -> Dict[str, 
                         # Only cache factual document-based answers, not creative responses
                         answer = llm_cache.get_enhanced_answer_response(question, context)
                         if answer:
-                            logger.info("Retrieved NVIDIA LLM response from cache")
+                            logger.info("Retrieved Groq LLM response from cache")
                     
                     if not answer:
                         try:
-                            response = nvidia_llm.invoke(prompt)
+                            response = groq_llm.invoke(prompt)
                             answer = response.content if hasattr(response, 'content') else str(response)
                             
                             # Cache the response (only factual document-based answers)
@@ -551,7 +551,7 @@ def process_document_with_pipeline(url: str, questions: List[str]) -> Dict[str, 
                                 llm_cache.set_enhanced_answer_response(question, context, answer)
                                 
                         except Exception as llm_error:
-                            logger.warning(f"NVIDIA LLM failed, using fallback: {llm_error}")
+                            logger.warning(f"Groq LLM failed, using fallback: {llm_error}")
                             answer = f"Based on the document content: {context[:500]}..."
                 else:
                     answer = "Unable to generate answer - no relevant content found or LLM unavailable"
@@ -616,8 +616,7 @@ def health_check():
             "vector_store": vector_store is not None,
             "retriever": retriever is not None,
             "challenge_agent": challenge_agent is not None,
-            "nvidia_llm": NVIDIA_AVAILABLE,
-            "groq_client": GROQ_AVAILABLE,
+            "groq_llm": GROQ_AVAILABLE,
             "langgraph": LANGGRAPH_AVAILABLE
         }
     })
