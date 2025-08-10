@@ -1,0 +1,649 @@
+{
+  "questions": [
+    {
+      "timestamp": "2025-08-10T09:41:32.730659",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 2.6904194355010986,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:42:58.651602",
+      "question": "\u0d35\u0d3f\u0d26\u0d47\u0d36\u0d24\u0d4d\u0d24\u0d4d \u0d28\u0d3f\u0d7c\u0d2e\u0d4d\u0d2e\u0d3f\u0d1a\u0d4d\u0d1a \u0d15\u0d2e\u0d4d\u0d2a\u0d4d\u0d2f\u0d42\u0d1f\u0d4d\u0d1f\u0d7c \u0d1a\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d15\u0d7e\u0d15\u0d4d\u0d15\u0d4d \u0d2f\u0d41\u0d0e\u0d38\u0d4d \u0d2a\u0d4d\u0d30\u0d38\u0d3f\u0d21\u0d28\u0d4d\u0d31\u0d4d \u0d0e\u0d24\u0d4d\u0d30 \u0d36\u0d24\u0d2e\u0d3e\u0d28\u0d02 \u0d36\u0d41\u0d7d\u0d15\u0d4d\u0d15\u0d02 \u0d2a\u0d4d\u0d30\u0d16\u0d4d\u0d2f\u0d3e\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d41?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 78.25111317634583,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:42:58.661614",
+      "question": "\u0d08 \u0d36\u0d41\u0d7d\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d16\u0d4d\u0d2f\u0d3e\u0d2a\u0d28\u0d02 \u0d0f\u0d24\u0d4d \u0d24\u0d40\u0d2f\u0d24\u0d3f\u0d2f\u0d3f\u0d32\u0d3e\u0d23\u0d4d \u0d28\u0d1f\u0d24\u0d4d\u0d24\u0d3f\u0d2f\u0d24\u0d4d?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 78.25111317634583,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:42:58.672604",
+      "question": "\u0d08 \u0d2a\u0d41\u0d24\u0d3f\u0d2f \u0d36\u0d41\u0d7d\u0d15\u0d4d\u0d15\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4d \u0d0f\u0d24\u0d4d \u0d15\u0d2e\u0d4d\u0d2a\u0d28\u0d3f\u0d15\u0d7e\u0d15\u0d4d\u0d15\u0d4d \u0d07\u0d33\u0d35\u0d41\u0d23\u0d4d\u0d1f\u0d4d?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 78.25111317634583,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:42:58.681601",
+      "question": "\u0d08 \u0d36\u0d41\u0d7d\u0d15\u0d4d\u0d15\u0d19\u0d4d\u0d19\u0d7e \u0d28\u0d1f\u0d2a\u0d4d\u0d2a\u0d3f\u0d32\u0d3e\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d2a\u0d4d\u0d30\u0d27\u0d3e\u0d28 \u0d32\u0d15\u0d4d\u0d37\u0d4d\u0d2f\u0d02 \u0d0e\u0d28\u0d4d\u0d24\u0d3e\u0d23\u0d4d?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 78.25111317634583,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:42:58.692603",
+      "question": "\u0d08 \u0d28\u0d2f\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d \u0d2e\u0d31\u0d41\u0d2a\u0d1f\u0d3f\u0d2f\u0d3e\u0d2f\u0d3f \u0d06\u0d2a\u0d4d\u0d2a\u0d3f\u0d7e \u0d0e\u0d24\u0d4d\u0d30 \u0d28\u0d3f\u0d15\u0d4d\u0d37\u0d47\u0d2a\u0d02 \u0d2a\u0d4d\u0d30\u0d16\u0d4d\u0d2f\u0d3e\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d41?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 78.25111317634583,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:42:58.703311",
+      "question": "How much investment did Apple announce in response to this policy?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 78.25111317634583,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:42:58.712322",
+      "question": "What are the potential negative consequences mentioned regarding this tariff policy?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 78.25111317634583,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:45:20.551392",
+      "question": "\u0d35\u0d3f\u0d26\u0d47\u0d36\u0d24\u0d4d\u0d24\u0d4d \u0d28\u0d3f\u0d7c\u0d2e\u0d4d\u0d2e\u0d3f\u0d1a\u0d4d\u0d1a \u0d15\u0d2e\u0d4d\u0d2a\u0d4d\u0d2f\u0d42\u0d1f\u0d4d\u0d1f\u0d7c \u0d1a\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d15\u0d7e\u0d15\u0d4d\u0d15\u0d4d \u0d2f\u0d41\u0d0e\u0d38\u0d4d \u0d2a\u0d4d\u0d30\u0d38\u0d3f\u0d21\u0d28\u0d4d\u0d31\u0d4d \u0d0e\u0d24\u0d4d\u0d30 \u0d36\u0d24\u0d2e\u0d3e\u0d28\u0d02 \u0d36\u0d41\u0d7d\u0d15\u0d4d\u0d15\u0d02 \u0d2a\u0d4d\u0d30\u0d16\u0d4d\u0d2f\u0d3e\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d41?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 77.31666421890259,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:45:20.573395",
+      "question": "\u0d08 \u0d36\u0d41\u0d7d\u0d15\u0d4d\u0d15 \u0d2a\u0d4d\u0d30\u0d16\u0d4d\u0d2f\u0d3e\u0d2a\u0d28\u0d02 \u0d0f\u0d24\u0d4d \u0d24\u0d40\u0d2f\u0d24\u0d3f\u0d2f\u0d3f\u0d32\u0d3e\u0d23\u0d4d \u0d28\u0d1f\u0d24\u0d4d\u0d24\u0d3f\u0d2f\u0d24\u0d4d?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 77.31666421890259,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:45:20.586396",
+      "question": "\u0d08 \u0d2a\u0d41\u0d24\u0d3f\u0d2f \u0d36\u0d41\u0d7d\u0d15\u0d4d\u0d15\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d28\u0d3f\u0d28\u0d4d\u0d28\u0d4d \u0d0f\u0d24\u0d4d \u0d15\u0d2e\u0d4d\u0d2a\u0d28\u0d3f\u0d15\u0d7e\u0d15\u0d4d\u0d15\u0d4d \u0d07\u0d33\u0d35\u0d41\u0d23\u0d4d\u0d1f\u0d4d?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 77.31666421890259,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:45:20.598395",
+      "question": "\u0d08 \u0d36\u0d41\u0d7d\u0d15\u0d4d\u0d15\u0d19\u0d4d\u0d19\u0d7e \u0d28\u0d1f\u0d2a\u0d4d\u0d2a\u0d3f\u0d32\u0d3e\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d2a\u0d4d\u0d30\u0d27\u0d3e\u0d28 \u0d32\u0d15\u0d4d\u0d37\u0d4d\u0d2f\u0d02 \u0d0e\u0d28\u0d4d\u0d24\u0d3e\u0d23\u0d4d?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 77.31666421890259,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:45:20.615392",
+      "question": "\u0d08 \u0d28\u0d2f\u0d24\u0d4d\u0d24\u0d3f\u0d28\u0d4d \u0d2e\u0d31\u0d41\u0d2a\u0d1f\u0d3f\u0d2f\u0d3e\u0d2f\u0d3f \u0d06\u0d2a\u0d4d\u0d2a\u0d3f\u0d7e \u0d0e\u0d24\u0d4d\u0d30 \u0d28\u0d3f\u0d15\u0d4d\u0d37\u0d47\u0d2a\u0d02 \u0d2a\u0d4d\u0d30\u0d16\u0d4d\u0d2f\u0d3e\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d41?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 77.31666421890259,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:45:20.630392",
+      "question": "How much investment did Apple announce in response to this policy?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 77.31666421890259,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T09:45:20.647396",
+      "question": "What are the potential negative consequences mentioned regarding this tariff policy?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 77.31666421890259,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T16:04:47.871200",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 22.535381078720093,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T16:11:40.799213",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 27.039541721343994,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T16:22:36.367698",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 29.679856538772583,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T16:28:04.963738",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 28.587276458740234,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T16:28:34.961784",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 16.923239946365356,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T16:47:51.364490",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 23.424927234649658,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T17:03:06.931363",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 22.92714500427246,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T17:04:08.356404",
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 42.294474840164185,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T17:04:08.360414",
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 42.294474840164185,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T17:04:08.363412",
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 42.294474840164185,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T17:04:08.367409",
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 42.294474840164185,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T17:04:08.371403",
+      "question": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 42.294474840164185,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T17:30:00.223265",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 26.26236581802368,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:18:28.588883",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "puzzle_solved_cached_direct",
+      "processing_time": 9.920664548873901,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "direct_keyword_detection_cached",
+        "confidence": 0.6793103448275861,
+        "reasoning": "Direct keyword detection on cached document with score 0.679"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:24:30.189763",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "puzzle_solved_cached_direct",
+      "processing_time": 12.066412210464478,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "direct_keyword_detection_cached",
+        "confidence": 0.6793103448275861,
+        "reasoning": "Direct keyword detection on cached document with score 0.679"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:27:11.132408",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "puzzle_solved_cached_direct",
+      "processing_time": 11.19927430152893,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "direct_keyword_detection_cached",
+        "confidence": 0.6793103448275861,
+        "reasoning": "Direct keyword detection on cached document with score 0.679"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:35:43.873640",
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 25.990681171417236,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 6 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:35:43.881637",
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 25.990681171417236,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 6 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:35:43.886634",
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 25.990681171417236,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 6 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:35:43.890636",
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 25.990681171417236,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 6 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:35:43.896639",
+      "question": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 25.990681171417236,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 6 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:38:58.236953",
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 19.57994508743286,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 14 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:38:58.245921",
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 19.57994508743286,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 14 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:38:58.255851",
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 19.57994508743286,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 14 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:38:58.266937",
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 19.57994508743286,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 14 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:38:58.276846",
+      "question": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 19.57994508743286,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 14 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:39:54.232215",
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 24.71397042274475,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 6 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:39:54.237239",
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 24.71397042274475,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 6 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:39:54.243193",
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 24.71397042274475,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 6 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:39:54.250312",
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 24.71397042274475,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 6 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:39:54.255224",
+      "question": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "puzzle_solved_cached_llm",
+      "processing_time": 24.71397042274475,
+      "route": "puzzle",
+      "route_analysis": {
+        "puzzle_type": "other",
+        "confidence": 1.0,
+        "reasoning": "Fallback analysis based on 6 puzzle keywords found"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:52:16.365075",
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 65.17806053161621,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:52:16.373077",
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 65.17806053161621,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:52:16.383622",
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 65.17806053161621,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:52:16.391617",
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 65.17806053161621,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:52:16.406862",
+      "question": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 65.17806053161621,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:52:26.935592",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 3.505955219268799,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:52:34.555691",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 2.971601963043213,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:54:51.689720",
+      "question": "What is the content of this document?",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=1942",
+      "mode": "document_specific",
+      "processing_time": 17.425525665283203,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "technical",
+        "reasoning": "The document contains a clear and organized JSON object, which is typical of technical documents. The reference to JSON and technical terms also suggests a technical context."
+      }
+    },
+    {
+      "timestamp": "2025-08-10T18:55:22.857194",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 5.109822511672974,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    }
+  ]
+}

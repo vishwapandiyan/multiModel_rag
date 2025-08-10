@@ -1,0 +1,183 @@
+"""
+Embedding Generation Module
+
+Handles the creation and management of text embeddings for
+vector search and similarity matching.
+"""
+
+import os
+import logging
+import numpy as np
+from typing import List, Dict, Any, Optional
+from sentence_transformers import SentenceTransformer
+import torch
+
+# Redis caching removed
+REDIS_CACHE_AVAILABLE = False
+
+logger = logging.getLogger(__name__)
+
+class EmbeddingGenerator:
+    """Handles text embedding generation using various models"""
+    
+    def __init__(self, model_name: str = "intfloat/e5-base-v2", device: str = None):
+        """
+        Initialize the embedding generator
+        
+        Args:
+            model_name: Name of the sentence transformer model to use
+            device: Device to use for computation ('cpu', 'cuda', or None for auto)
+        """
+        self.model_name = model_name
+        self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
+        
+        # Redis cache removed
+        self.cache = None
+        
+        try:
+            self.model = SentenceTransformer(model_name, device=self.device)
+            logger.info(f"Loaded embedding model: {model_name} on {self.device}")
+        except Exception as e:
+            logger.error(f"Error loading embedding model: {e}")
+            raise
+    
+    def generate_embeddings(self, texts: List[str], batch_size: int = 32) -> np.ndarray:
+        """
+        Generate embeddings for a list of texts
+        
+        Args:
+            texts: List of text strings to embed
+            batch_size: Batch size for processing
+            
+        Returns:
+            numpy array of embeddings
+        """
+        try:
+            if not texts:
+                logger.warning("No texts provided for embedding")
+                return np.array([])
+            
+            # Clean and prepare texts
+            cleaned_texts = [text.strip() for text in texts if text.strip()]
+            
+            if not cleaned_texts:
+                logger.warning("No valid texts after cleaning")
+                return np.array([])
+            
+            # Cache removed - generate embeddings directly
+            
+            # Generate embeddings
+            embeddings = self.model.encode(
+                cleaned_texts,
+                batch_size=batch_size,
+                show_progress_bar=True,
+                convert_to_numpy=True
+            )
+            
+            # Cache removed - embeddings generated successfully
+            
+            logger.info(f"Generated embeddings for {len(cleaned_texts)} texts")
+            return embeddings
+            
+        except Exception as e:
+            logger.error(f"Error generating embeddings: {e}")
+            return np.array([])
+    
+    def generate_single_embedding(self, text: str) -> Optional[np.ndarray]:
+        """
+        Generate embedding for a single text
+        
+        Args:
+            text: Text string to embed
+            
+        Returns:
+            numpy array of embedding or None if error
+        """
+        try:
+            if not text or not text.strip():
+                logger.warning("Empty text provided for embedding")
+                return None
+            
+            cleaned_text = text.strip()
+            
+            # Cache removed - generate embedding directly
+            
+            embedding = self.model.encode([cleaned_text], convert_to_numpy=True)
+            result = embedding[0] if len(embedding) > 0 else None
+            
+            # Cache the result
+            if self.cache and result is not None:
+                self.cache.set_single_embedding(cleaned_text, self.model_name, result)
+            
+            return result
+            
+        except Exception as e:
+            logger.error(f"Error generating single embedding: {e}")
+            return None
+    
+    def create_enhanced_embeddings(self, processed_chunks: List[str]) -> np.ndarray:
+        """
+        Create enhanced embeddings with additional context
+        
+        Args:
+            processed_chunks: List of processed text chunks
+            
+        Returns:
+            numpy array of enhanced embeddings
+        """
+        try:
+            if not processed_chunks:
+                logger.warning("No chunks provided for enhanced embedding")
+                return np.array([])
+            
+            # Generate base embeddings
+            base_embeddings = self.generate_embeddings(processed_chunks)
+            
+            if len(base_embeddings) == 0:
+                return base_embeddings
+            
+            # Apply additional processing if needed
+            # This could include dimensionality reduction, normalization, etc.
+            
+            logger.info(f"Created enhanced embeddings for {len(processed_chunks)} chunks")
+            return base_embeddings
+            
+        except Exception as e:
+            logger.error(f"Error creating enhanced embeddings: {e}")
+            return np.array([])
+    
+    def get_embedding_dimension(self) -> int:
+        """Get the dimension of embeddings generated by the model"""
+        try:
+            # Use a dummy text to get embedding dimension
+            dummy_embedding = self.generate_single_embedding("test")
+            return len(dummy_embedding) if dummy_embedding is not None else 0
+        except Exception as e:
+            logger.error(f"Error getting embedding dimension: {e}")
+            return 0
+    
+    def change_model(self, new_model_name: str) -> bool:
+        """
+        Change the embedding model
+        
+        Args:
+            new_model_name: Name of the new model to load
+            
+        Returns:
+            bool: True if successful, False otherwise
+        """
+        try:
+            new_model = SentenceTransformer(new_model_name, device=self.device)
+            self.model = new_model
+            self.model_name = new_model_name
+            logger.info(f"Changed embedding model to: {new_model_name}")
+            return True
+        except Exception as e:
+            logger.error(f"Error changing model to {new_model_name}: {e}")
+            return False
+
+# Utility functions for backward compatibility
+def create_enhanced_embeddings(processed_chunks: List[str], model_name: str = "intfloat/e5-base-v2") -> np.ndarray:
+    """Utility function to create enhanced embeddings"""
+    generator = EmbeddingGenerator(model_name)
+    return generator.create_enhanced_embeddings(processed_chunks)

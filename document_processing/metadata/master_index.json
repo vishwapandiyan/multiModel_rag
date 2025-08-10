@@ -1,0 +1,108 @@
+{
+  "documents": {
+    "f15345ba5ce7155ebb1fc8f231da2654": {
+      "url_hash": "f15345ba5ce7155ebb1fc8f231da2654",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "processing_route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      },
+      "num_chunks": 1263,
+      "embedding_dimension": 768,
+      "has_faiss_index": true,
+      "processed_at": "2025-08-08T09:24:10.251686",
+      "document_type": "structured"
+    },
+    "d6cf54e2e41ddc58c1eadbcdb3ea24ef": {
+      "url_hash": "d6cf54e2e41ddc58c1eadbcdb3ea24ef",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "processing_route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "financial",
+        "reasoning": "The document contains structured paragraphs with numbered sections and subsections, indicating a formal and organized layout. The content appears to be related to insurance policies, with definitions and explanations of terms, coverage details, and specific rules. This structure and content suggest a financial or insurance-related document."
+      },
+      "num_chunks": 113,
+      "embedding_dimension": 768,
+      "has_faiss_index": true,
+      "processed_at": "2025-08-08T09:26:59.936659",
+      "document_type": "structured"
+    },
+    "f6a2f111d5498965c3c2ba7e0f022e98": {
+      "url_hash": "f6a2f111d5498965c3c2ba7e0f022e98",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/UNI%20GROUP%20HEALTH%20INSURANCE%20POLICY%20-%20UIIHLGP26043V022526%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A06%3A03Z&se=2026-08-01T17%3A06%3A00Z&sr=b&sp=r&sig=wLlooaThgRx91i2z4WaeggT0qnuUUEzIUKj42GsvMfg%3D",
+      "processing_route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.8,
+        "contains_metadata": true,
+        "document_type": "financial",
+        "reasoning": "The document appears to be a financial report containing structured data, including dates, names, policy numbers, and monetary amounts, which suggests a high degree of organization and metadata."
+      },
+      "num_chunks": 237,
+      "embedding_dimension": 768,
+      "has_faiss_index": true,
+      "processed_at": "2025-08-08T09:50:54.709404",
+      "document_type": "structured"
+    },
+    "334ef1720708a6739d8db75c18adf037": {
+      "url_hash": "334ef1720708a6739d8db75c18adf037",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "processing_route": 3,
+      "route_analysis": {
+        "is_structured": false,
+        "confidence": 0.8,
+        "contains_metadata": true,
+        "document_type": "other",
+        "reasoning": "The text appears to be written in a non-standard script (Malayalam) and does not adhere to a typical structured format, such as a table or list. However, it does contain metadata-like information, including dates and names, suggesting that it may be a formal or official document. Based on the content, it is difficult to categorize into a specific document type, but it does not appear to be a typical legal, financial, technical, or academic document."
+      },
+      "num_chunks": 2,
+      "embedding_dimension": 768,
+      "has_faiss_index": true,
+      "processed_at": "2025-08-08T11:35:13.621775",
+      "document_type": "other"
+    },
+    "ff1c5c998b1bfd6cf22694d7e9d4ede1": {
+      "url_hash": "ff1c5c998b1bfd6cf22694d7e9d4ede1",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "processing_route": 2,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": false,
+        "document_type": "technical",
+        "reasoning": "The document appears to be a technical guide with step-by-step instructions and endpoint URLs, indicating a structured format. The language and content suggest a technical or programming-related context, but there is no clear metadata such as author, date, or title."
+      },
+      "num_chunks": 6,
+      "embedding_dimension": 768,
+      "has_faiss_index": true,
+      "processed_at": "2025-08-08T12:35:35.057881",
+      "document_type": "structured"
+    },
+    "f9f652836d08a3a22dab09107f45b161": {
+      "url_hash": "f9f652836d08a3a22dab09107f45b161",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=1942",
+      "processing_route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "technical",
+        "reasoning": "The document contains a clear and organized JSON object, which is typical of technical documents. The reference to JSON and technical terms also suggests a technical context."
+      },
+      "num_chunks": 1,
+      "embedding_dimension": 768,
+      "has_faiss_index": true,
+      "processed_at": "2025-08-10T18:54:45.100978",
+      "document_type": "structured"
+    }
+  },
+  "total_documents": 6,
+  "last_updated": "2025-08-10T18:54:45.110873"
+}

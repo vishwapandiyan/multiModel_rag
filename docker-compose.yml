@@ -1,0 +1,62 @@
+version: '3.8'
+
+services:
+  # Main application
+  hackrx-app:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: hackrx-app
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      # Flask configuration
+      - FLASK_APP=main.py
+      - FLASK_ENV=production
+      - FLASK_DEBUG=0
+      
+      # Application configuration
+      - PYTHONPATH=/app
+      
+      # API Keys (set these in your environment or .env file)
+      - NVIDIA_API_KEY=${NVIDIA_API_KEY:-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}
+      - GROQ_API_KEY=${GROQ_API_KEY:-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}
+      - API_BEARER_TOKEN=${API_BEARER_TOKEN:-9f40f077e610d431226b59eec99652153ccad94769da6779cc01725731999634}
+      
+      # Embedding model configuration
+      - EMBEDDING_MODEL=intfloat/e5-base-v2
+      
+      # Logging configuration
+      - LOG_LEVEL=INFO
+      
+      # Performance configuration
+      - PYTHONUNBUFFERED=1
+      - OMP_NUM_THREADS=4
+    
+    volumes:
+      # Persist data directories
+      - ./processing_results:/app/processing_results
+      - ./document_processing/logs:/app/document_processing/logs
+      - ./document_processing/metadata:/app/document_processing/metadata
+      - ./document_processing/embeddings:/app/document_processing/embeddings
+      - ./vectorstore:/app/vectorstore
+    
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    
+    # Resource limits for better performance
+    deploy:
+      resources:
+        limits:
+          memory: 4G
+        reservations:
+          memory: 2G
+
+networks:
+  default:
+    name: hackrx-network

@@ -1,0 +1,1195 @@
+{
+  "questions": [
+    {
+      "timestamp": "2025-08-08T09:24:38.279670",
+      "question": "What is the official name of India according to Article 1 of the Constitution?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 112.69339799880981,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:24:38.281552",
+      "question": "Which Article guarantees equality before the law and equal protection of laws to all persons?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 112.69339799880981,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:24:38.283483",
+      "question": "What is abolished by Article 17 of the Constitution?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 112.69339799880981,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:24:38.283800",
+      "question": "What are the key ideals mentioned in the Preamble of the Constitution of India?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 112.69339799880981,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:24:38.284630",
+      "question": "Under which Article can Parliament alter the boundaries, area, or name of an existing State?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 112.69339799880981,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:24:38.285639",
+      "question": "According to Article 24, children below what age are prohibited from working in hazardous industries like factories or mines?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 112.69339799880981,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:24:38.286128",
+      "question": "What is the significance of Article 21 in the Indian Constitution?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 112.69339799880981,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:24:38.288443",
+      "question": "Article 15 prohibits discrimination on certain grounds. However, which groups can the State make special provisions for under this Article?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 112.69339799880981,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:24:38.289277",
+      "question": "Which Article allows Parliament to regulate the right of citizenship and override previous articles on citizenship (Articles 5 to 10)?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 112.69339799880981,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:24:38.291375",
+      "question": "What restrictions can the State impose on the right to freedom of speech under Article 19(2)?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 112.69339799880981,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.95,
+        "contains_metadata": true,
+        "document_type": "legal",
+        "reasoning": "The document sample contains explicit headings, sections (e.g., Part XI), articles (e.g., 247, 248), and clauses (e.g., clause (5) of article 279A), indicating a structured format typical of legal documents. The presence of formal language, such as 'Explanation.\u2014' and 'Notwithstanding anything in this Chapter', further supports this classification. The metadata, such as the title 'THE CONSTITUTION OF INDIA', date 'As on 1st May, 2024', and issuing authority 'MINISTRY OF LAW AND JUSTICE', are also consistent with a legal document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:25:17.036813",
+      "question": "What is the official name of India according to Article 1 of the Constitution?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 26.87460494041443,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:25:17.039326",
+      "question": "Which Article guarantees equality before the law and equal protection of laws to all persons?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 26.87460494041443,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:25:17.040708",
+      "question": "What is abolished by Article 17 of the Constitution?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 26.87460494041443,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:25:17.041979",
+      "question": "What are the key ideals mentioned in the Preamble of the Constitution of India?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 26.87460494041443,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:25:17.042941",
+      "question": "Under which Article can Parliament alter the boundaries, area, or name of an existing State?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 26.87460494041443,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:25:17.043757",
+      "question": "According to Article 24, children below what age are prohibited from working in hazardous industries like factories or mines?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 26.87460494041443,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:25:17.044752",
+      "question": "What is the significance of Article 21 in the Indian Constitution?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 26.87460494041443,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:25:17.046102",
+      "question": "Article 15 prohibits discrimination on certain grounds. However, which groups can the State make special provisions for under this Article?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 26.87460494041443,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:25:17.047308",
+      "question": "Which Article allows Parliament to regulate the right of citizenship and override previous articles on citizenship (Articles 5 to 10)?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 26.87460494041443,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:25:17.048089",
+      "question": "What restrictions can the State impose on the right to freedom of speech under Article 19(2)?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 26.87460494041443,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:27:15.228200",
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 27.861954927444458,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "financial",
+        "reasoning": "The document contains structured paragraphs with numbered sections and subsections, indicating a formal and organized layout. The content appears to be related to insurance policies, with definitions and explanations of terms, coverage details, and specific rules. This structure and content suggest a financial or insurance-related document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:27:15.230390",
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 27.861954927444458,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "financial",
+        "reasoning": "The document contains structured paragraphs with numbered sections and subsections, indicating a formal and organized layout. The content appears to be related to insurance policies, with definitions and explanations of terms, coverage details, and specific rules. This structure and content suggest a financial or insurance-related document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:27:15.231368",
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 27.861954927444458,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "financial",
+        "reasoning": "The document contains structured paragraphs with numbered sections and subsections, indicating a formal and organized layout. The content appears to be related to insurance policies, with definitions and explanations of terms, coverage details, and specific rules. This structure and content suggest a financial or insurance-related document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:27:15.232589",
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 27.861954927444458,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "financial",
+        "reasoning": "The document contains structured paragraphs with numbered sections and subsections, indicating a formal and organized layout. The content appears to be related to insurance policies, with definitions and explanations of terms, coverage details, and specific rules. This structure and content suggest a financial or insurance-related document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:27:15.233477",
+      "question": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 27.861954927444458,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "financial",
+        "reasoning": "The document contains structured paragraphs with numbered sections and subsections, indicating a formal and organized layout. The content appears to be related to insurance policies, with definitions and explanations of terms, coverage details, and specific rules. This structure and content suggest a financial or insurance-related document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:45:30.007524",
+      "question": "What is the official name of India according to Article 1 of the Constitution?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 45.6299729347229,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:45:30.011984",
+      "question": "Which Article guarantees equality before the law and equal protection of laws to all persons?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 45.6299729347229,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:45:30.013505",
+      "question": "What is abolished by Article 17 of the Constitution?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 45.6299729347229,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:45:30.015352",
+      "question": "What are the key ideals mentioned in the Preamble of the Constitution of India?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 45.6299729347229,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:45:30.017441",
+      "question": "Under which Article can Parliament alter the boundaries, area, or name of an existing State?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 45.6299729347229,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:45:30.019665",
+      "question": "According to Article 24, children below what age are prohibited from working in hazardous industries like factories or mines?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 45.6299729347229,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:45:30.021150",
+      "question": "What is the significance of Article 21 in the Indian Constitution?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 45.6299729347229,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:45:30.022534",
+      "question": "Article 15 prohibits discrimination on certain grounds. However, which groups can the State make special provisions for under this Article?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 45.6299729347229,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:45:30.023870",
+      "question": "Which Article allows Parliament to regulate the right of citizenship and override previous articles on citizenship (Articles 5 to 10)?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 45.6299729347229,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:45:30.024987",
+      "question": "What restrictions can the State impose on the right to freedom of speech under Article 19(2)?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/indian_constitution.pdf?sv=2023-01-03&st=2025-07-28T06%3A42%3A00Z&se=2026-11-29T06%3A42%3A00Z&sr=b&sp=r&sig=5Gs%2FOXqP3zY00lgciu4BZjDV5QjTDIx7fgnfdz6Pu24%3D",
+      "mode": "document_specific",
+      "processing_time": 45.6299729347229,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:48:28.777409",
+      "question": "When will my root canal claim of Rs 25,000 be settled?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 22.446906089782715,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:48:28.782433",
+      "question": "I have done an IVF for Rs 56,000. Is it covered?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 22.446906089782715,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:48:28.784422",
+      "question": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 22.446906089782715,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:48:28.786302",
+      "question": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 22.446906089782715,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:48:28.789023",
+      "question": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/Arogya%20Sanjeevani%20Policy%20-%20CIN%20-%20U10200WB1906GOI001713%201.pdf?sv=2023-01-03&st=2025-07-21T08%3A29%3A02Z&se=2025-09-22T08%3A29%3A00Z&sr=b&sp=r&sig=nzrz1K9Iurt%2BBXom%2FB%2BMPTFMFP3PRnIvEsipAX10Ig4%3D",
+      "mode": "document_specific",
+      "processing_time": 22.446906089782715,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:51:15.329437",
+      "question": "If an insured person takes treatment for arthritis at home because no hospital beds are available, under what circumstances would these expenses NOT be covered, even if a doctor declares the treatment was medically required?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/UNI%20GROUP%20HEALTH%20INSURANCE%20POLICY%20-%20UIIHLGP26043V022526%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A06%3A03Z&se=2026-08-01T17%3A06%3A00Z&sr=b&sp=r&sig=wLlooaThgRx91i2z4WaeggT0qnuUUEzIUKj42GsvMfg%3D",
+      "mode": "document_specific",
+      "processing_time": 43.001981258392334,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.8,
+        "contains_metadata": true,
+        "document_type": "financial",
+        "reasoning": "The document appears to be a financial report containing structured data, including dates, names, policy numbers, and monetary amounts, which suggests a high degree of organization and metadata."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:51:15.334110",
+      "question": "A claim was lodged for expenses on a prosthetic device after a hip replacement surgery. The hospital bill also includes the cost of a walker and a lumbar belt post-discharge. Which items are payable?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/UNI%20GROUP%20HEALTH%20INSURANCE%20POLICY%20-%20UIIHLGP26043V022526%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A06%3A03Z&se=2026-08-01T17%3A06%3A00Z&sr=b&sp=r&sig=wLlooaThgRx91i2z4WaeggT0qnuUUEzIUKj42GsvMfg%3D",
+      "mode": "document_specific",
+      "processing_time": 43.001981258392334,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.8,
+        "contains_metadata": true,
+        "document_type": "financial",
+        "reasoning": "The document appears to be a financial report containing structured data, including dates, names, policy numbers, and monetary amounts, which suggests a high degree of organization and metadata."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:51:15.336764",
+      "question": "An insured's child (a dependent above 18 but under 26, unemployed and unmarried) requires dental surgery after an accident. What is the claim admissibility, considering both eligibility and dental exclusions, and what is the process for this specific scenario?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/UNI%20GROUP%20HEALTH%20INSURANCE%20POLICY%20-%20UIIHLGP26043V022526%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A06%3A03Z&se=2026-08-01T17%3A06%3A00Z&sr=b&sp=r&sig=wLlooaThgRx91i2z4WaeggT0qnuUUEzIUKj42GsvMfg%3D",
+      "mode": "document_specific",
+      "processing_time": 43.001981258392334,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.8,
+        "contains_metadata": true,
+        "document_type": "financial",
+        "reasoning": "The document appears to be a financial report containing structured data, including dates, names, policy numbers, and monetary amounts, which suggests a high degree of organization and metadata."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:52:37.553605",
+      "question": "If an insured person takes treatment for arthritis at home because no hospital beds are available, under what circumstances would these expenses NOT be covered, even if a doctor declares the treatment was medically required?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/UNI%20GROUP%20HEALTH%20INSURANCE%20POLICY%20-%20UIIHLGP26043V022526%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A06%3A03Z&se=2026-08-01T17%3A06%3A00Z&sr=b&sp=r&sig=wLlooaThgRx91i2z4WaeggT0qnuUUEzIUKj42GsvMfg%3D",
+      "mode": "document_specific",
+      "processing_time": 19.215469121932983,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:52:37.558559",
+      "question": "A claim was lodged for expenses on a prosthetic device after a hip replacement surgery. The hospital bill also includes the cost of a walker and a lumbar belt post-discharge. Which items are payable?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/UNI%20GROUP%20HEALTH%20INSURANCE%20POLICY%20-%20UIIHLGP26043V022526%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A06%3A03Z&se=2026-08-01T17%3A06%3A00Z&sr=b&sp=r&sig=wLlooaThgRx91i2z4WaeggT0qnuUUEzIUKj42GsvMfg%3D",
+      "mode": "document_specific",
+      "processing_time": 19.215469121932983,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T09:52:37.561089",
+      "question": "An insured's child (a dependent above 18 but under 26, unemployed and unmarried) requires dental surgery after an accident. What is the claim admissibility, considering both eligibility and dental exclusions, and what is the process for this specific scenario?",
+      "document_url": "https://hackrx.blob.core.windows.net/assets/UNI%20GROUP%20HEALTH%20INSURANCE%20POLICY%20-%20UIIHLGP26043V022526%201.pdf?sv=2023-01-03&spr=https&st=2025-07-31T17%3A06%3A03Z&se=2026-08-01T17%3A06%3A00Z&sr=b&sp=r&sig=wLlooaThgRx91i2z4WaeggT0qnuUUEzIUKj42GsvMfg%3D",
+      "mode": "document_specific",
+      "processing_time": 19.215469121932983,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T11:35:19.564094",
+      "question": "\u0d4d\u0d30\u0d02\u0d2a\u0d4d \u0d0f\u0d24\u0d4d \u0d26\u0d3f\u0d35\u0d38\u0d2e\u0d3e\u0d23\u0d4d 100% \u0d36\u0d41\u0d7d\u0d15\u0d02 \u0d2a\u0d4d\u0d30\u0d16\u0d4d\u0d2f\u0d3e\u0d2a\u0d3f\u0d1a\u0d4d\u0d1a\u0d24\u0d4d?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 9.620520830154419,
+      "route": 3,
+      "route_analysis": {
+        "is_structured": false,
+        "confidence": 0.8,
+        "contains_metadata": true,
+        "document_type": "other",
+        "reasoning": "The text appears to be written in a non-standard script (Malayalam) and does not adhere to a typical structured format, such as a table or list. However, it does contain metadata-like information, including dates and names, suggesting that it may be a formal or official document. Based on the content, it is difficult to categorize into a specific document type, but it does not appear to be a typical legal, financial, technical, or academic document."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T11:40:05.923902",
+      "question": "What was Apple\u2019s investment commitment and what was its objective?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 3.0045650005340576,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T12:26:19.362970",
+      "question": "What was Apple\u2019s investment commitment and what was its objective?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 2.3287129402160645,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T13:55:48.874969",
+      "question": "What percentage of tariff did the US President announce on foreign-made computer chips?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 12.987901210784912,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T13:55:48.880694",
+      "question": "On which date was this tariff announcement made?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 12.987901210784912,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T13:55:48.884094",
+      "question": "Which companies are exempt from these new tariffs?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 12.987901210784912,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T13:55:48.886891",
+      "question": "What is the main goal of implementing these tariffs?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 12.987901210784912,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T13:55:48.889368",
+      "question": "How much investment did Apple announce in response to this policy?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 12.987901210784912,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T13:55:48.891523",
+      "question": "What are the potential negative consequences mentioned regarding this tariff policy?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 12.987901210784912,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T14:33:39.590107",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 3.342481851577759,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:18:44.380650",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 10.254641771316528,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:23:41.704627",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 7.555410861968994,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:27:16.001764",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 20.31413722038269,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:28:21.189055",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 4.87897801399231,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:29:50.343660",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 5.977322101593018,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:55:55.632643",
+      "question": "What is the person's name mentioned in the document?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 18.267582178115845,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:55:55.636054",
+      "question": "What is the favorite city mentioned in the document?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 18.267582178115845,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:55:55.637635",
+      "question": "What is the secret city mentioned in the document?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 18.267582178115845,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:55:55.639174",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 18.267582178115845,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:55:55.642694",
+      "question": "What landmarks are mentioned in the document for the favorite city?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 18.267582178115845,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:55:55.645426",
+      "question": "What flight numbers are mentioned in the document?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 18.267582178115845,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:56:53.358031",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 20.135332822799683,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:56:53.363040",
+      "question": "What is the person's name mentioned in the document?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 20.135332822799683,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:56:53.366153",
+      "question": "What is the favorite city mentioned in the document?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 20.135332822799683,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:56:53.368985",
+      "question": "What is the secret city mentioned in the document?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 20.135332822799683,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:56:53.371178",
+      "question": "What landmarks are associated with the favorite city?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 20.135332822799683,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:56:53.373433",
+      "question": "What are all the landmarks mentioned in the document?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 20.135332822799683,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:56:53.376111",
+      "question": "Are there any tables or lists of landmarks in the document?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 20.135332822799683,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T15:56:53.378811",
+      "question": "What travel-related information is provided in the document?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 20.135332822799683,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T16:22:24.525558",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 2.097606897354126,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T16:30:37.546130",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 2.866670846939087,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:03:49.827024",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 1.9980669021606445,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:03:49.832905",
+      "question": "Can you tell me the flight reservation number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 1.9980669021606445,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:03:49.835187",
+      "question": "What flight am I booked on?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 1.9980669021606445,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:04:07.139090",
+      "question": "What was Apple's investment commitment and what was its objective?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/News.pdf?sv=2023-01-03&spr=https&st=2025-08-07T17%3A10%3A11Z&se=2026-08-08T17%3A10%3A00Z&sr=b&sp=r&sig=ybRsnfv%2B6VbxPz5xF7kLLjC4ehU0NF7KDkXua9ujSf0%3D",
+      "mode": "document_specific",
+      "processing_time": 17.29220986366272,
+      "route": 3,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:06:08.089958",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.7174820899963379,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:09:55.689871",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.8073339462280273,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:11:10.348829",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.7048501968383789,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:13:38.575228",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.6818740367889404,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:13:43.656798",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.6692771911621094,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:13:52.685726",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.7315587997436523,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:13:56.263186",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.6281230449676514,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:14:11.790805",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.7050762176513672,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:30:36.639436",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 3.0880844593048096,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T21:30:52.549239",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 3.799889087677002,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T22:39:53.982439",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.6958189010620117,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T22:42:45.401480",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.8005161285400391,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T22:47:05.607660",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.8337271213531494,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T23:22:37.601425",
+      "question": "What is the content of this document?",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=1942",
+      "mode": "document_specific",
+      "processing_time": 10.811232089996338,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "technical",
+        "reasoning": "The document contains a clear and organized JSON object, which is typical of technical documents. The reference to JSON and technical terms also suggests a technical context."
+      }
+    },
+    {
+      "timestamp": "2025-08-08T23:24:31.888614",
+      "question": "What is the content of this document?",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=1942",
+      "mode": "document_specific",
+      "processing_time": 2.4191999435424805,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T23:25:48.367016",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.6739351749420166,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T23:26:19.664427",
+      "question": "What is the content of this document?",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=1942",
+      "mode": "document_specific",
+      "processing_time": 2.8798458576202393,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T23:27:49.146497",
+      "question": "what is the secrect token?",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=1942",
+      "mode": "document_specific",
+      "processing_time": 2.2062721252441406,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T23:49:38.422297",
+      "question": "What is the content of this document?",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=1942",
+      "mode": "document_specific",
+      "processing_time": 6.884246826171875,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-08T23:50:13.731243",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 4.275463342666626,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    }
+  ]
+}

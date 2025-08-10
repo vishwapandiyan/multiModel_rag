@@ -1,0 +1,173 @@
+{
+  "questions": [
+    {
+      "timestamp": "2025-08-09T02:58:43.176948",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.8458809852600098,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T02:59:03.702173",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.7662055492401123,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T03:01:01.751606",
+      "question": "What is the content of this document?",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=1942",
+      "mode": "document_specific",
+      "processing_time": 7.078016757965088,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T03:02:15.956764",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.8038754463195801,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T03:02:41.119204",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 0.8466730117797852,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T03:02:50.674892",
+      "question": "Go to the link and get the secret token and return it",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=9335",
+      "mode": "document_specific",
+      "processing_time": 7.085218667984009,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "technical",
+        "reasoning": "The document contains a clear and organized JSON object, which is typical of technical documents. The reference to JSON and technical terms also suggests a technical context."
+      }
+    },
+    {
+      "timestamp": "2025-08-09T16:35:56.677766",
+      "question": "What is the content of this document?",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=1942",
+      "mode": "document_specific",
+      "processing_time": 6.436856508255005,
+      "route": 1,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T16:36:37.203333",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 2.066784143447876,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T16:39:43.690758",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 1.903045415878296,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T16:39:54.107771",
+      "question": "Go to the link and get the secret token and return it",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=2891",
+      "mode": "document_specific",
+      "processing_time": 8.416671991348267,
+      "route": 1,
+      "route_analysis": {
+        "is_structured": true,
+        "confidence": 0.9,
+        "contains_metadata": true,
+        "document_type": "technical",
+        "reasoning": "The document contains a clear and organized JSON object, which is typical of technical documents. The reference to JSON and technical terms also suggests a technical context."
+      }
+    },
+    {
+      "timestamp": "2025-08-09T23:47:26.245979",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 5.44201922416687,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T23:49:26.367917",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 14.400941133499146,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T23:50:30.181190",
+      "question": "What is the content of this document?",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=1942",
+      "mode": "short_document_direct",
+      "processing_time": 2.0251407623291016,
+      "route": null,
+      "route_analysis": null
+    },
+    {
+      "timestamp": "2025-08-09T23:55:48.457547",
+      "question": "What is my flight number?",
+      "document_url": "https://hackrx.blob.core.windows.net/hackrx/rounds/FinalRound4SubmissionPDF.pdf?sv=2023-01-03&spr=https&st=2025-08-07T14%3A23%3A48Z&se=2027-08-08T14%3A23%3A00Z&sr=b&sp=r&sig=nMtZ2x9aBvz%2FPjRWboEOZIGB%2FaGfNf5TfBOrhGqSv4M%3D",
+      "mode": "document_specific",
+      "processing_time": 7.357168912887573,
+      "route": 2,
+      "route_analysis": {
+        "status": "loaded_from_cache"
+      }
+    },
+    {
+      "timestamp": "2025-08-09T23:55:53.388272",
+      "question": "Go to the link and get the secret token and return it",
+      "document_url": "https://register.hackrx.in/utils/get-secret-token?hackTeam=8579",
+      "mode": "short_document_direct",
+      "processing_time": 2.505040407180786,
+      "route": null,
+      "route_analysis": null
+    }
+  ]
+}
