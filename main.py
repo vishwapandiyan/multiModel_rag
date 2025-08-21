@@ -1,9 +1,4 @@
-"""
-Main Integration Module
 
-This is the main entry point that integrates all components of the hackrx pipeline,
-similar to api_demo_new.py but with modular architecture.
-"""
 
 import os
 import sys
