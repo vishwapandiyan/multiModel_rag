@@ -1,9 +1,4 @@
-"""
-Prompts Configuration Module
 
-Contains all prompts used across the HackRx pipeline, extracted from api_demo_new.py
-and organized by functionality for better maintainability.
-"""
 
 # Document Route Analysis Prompts
 DOCUMENT_ROUTE_ANALYSIS_PROMPT = """
