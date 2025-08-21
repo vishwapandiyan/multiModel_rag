@@ -1,9 +1,4 @@
-"""
-Retriever Prompts Module
 
-Contains all prompts used in the retriever module, extracted from api_demo_new.py
-and organized for the document retrieval and answer generation pipeline.
-"""
 
 # Document Route Analysis Prompts (from api_demo_new.py)
 DOCUMENT_ROUTE_ANALYSIS_PROMPT = """
