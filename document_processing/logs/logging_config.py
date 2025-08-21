@@ -1,8 +1,4 @@
-"""
-Logging Configuration Module
 
-Handles logging setup and configuration for the application.
-"""
 
 import os
 import logging
