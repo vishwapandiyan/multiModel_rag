@@ -1,9 +1,4 @@
-"""
-Embedding Generation Module
 
-Handles the creation and management of text embeddings for
-vector search and similarity matching.
-"""
 
 import os
 import logging
