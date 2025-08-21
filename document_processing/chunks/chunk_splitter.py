@@ -1,9 +1,4 @@
-"""
-Chunk Splitting Module
 
-Handles intelligent text chunking and splitting for optimal
-document processing and retrieval.
-"""
 
 import re
 import logging
