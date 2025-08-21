@@ -1,12 +1,4 @@
-"""
-Document Retriever Module
 
-Handles intelligent document retrieval using various techniques:
-- FAISS-based vector search
-- Semantic similarity matching
-- Relevance checking and filtering
-- Multi-query expansion and parallel search
-"""
 
 import numpy as np
 import logging
