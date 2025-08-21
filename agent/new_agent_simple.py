@@ -1,9 +1,4 @@
-"""
-Generic Challenge Handler and Agent System
 
-This module provides a comprehensive system for handling various types of challenges
-and puzzles, particularly focused on API-based challenges like the HackRx flight puzzle.
-"""
 
 import asyncio
 import time
