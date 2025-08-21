@@ -1,9 +1,4 @@
-"""
-Vector Store Module
 
-Handles vector database operations using FAISS for efficient
-similarity search and vector storage.
-"""
 
 import os
 import pickle
