@@ -1,12 +1,4 @@
-"""
-Text Extractor Module
 
-Handles text extraction from various document formats with support for:
-- Multiple file formats
-- OCR for images and scanned documents
-- Structured data extraction from spreadsheets and presentations
-- Malicious content detection
-"""
 
 import os
 import zipfile
